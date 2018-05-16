@@ -1,3 +1,4 @@
+<?php
 class Computer
 {
     public function getElectricShock()

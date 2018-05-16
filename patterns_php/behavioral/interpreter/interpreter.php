@@ -1,3 +1,4 @@
+<?php
 abstract class Expression 
 {
     private static $_count = 0;

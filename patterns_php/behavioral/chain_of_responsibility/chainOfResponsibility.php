@@ -1,3 +1,4 @@
+<?php
 abstract class Account
 {
     protected $successor;

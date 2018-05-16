@@ -1,3 +1,4 @@
+<?php
 abstract class Builder
 {
     final public function build()

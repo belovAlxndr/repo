@@ -1,3 +1,4 @@
+<?php
 class Bulb
 {
     public function turnOn()

@@ -1,3 +1,4 @@
+<?php
 interface Assignee {
   public function canHandleTask($task): bool;
   public function takeTask($task);

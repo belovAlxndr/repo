@@ -1,3 +1,4 @@
+<?php
 class EditorMemento
 {
     protected $content;

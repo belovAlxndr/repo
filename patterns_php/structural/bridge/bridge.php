@@ -1,3 +1,4 @@
+<?php
 interface WebPage
 {
     public function __construct(Theme $theme);
